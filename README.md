@@ -20,7 +20,6 @@
   - HTML5 🔴
   - CSS3 🔴
   - Docker 🐳
-  - Kubernetes (Optional)
   - SQL 🟩
 
 - **Tools & Libraries**:
