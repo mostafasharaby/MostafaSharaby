@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mostafa Sharaby
-### A Full Stack .NET Engineer
+### A Full Stack .NET & Angular  Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafasharaby&label=Profile%20views&color=0e75b6&style=flat" alt="mostafasharaby" /> </p>
 
